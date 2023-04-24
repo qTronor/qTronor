@@ -1,5 +1,6 @@
 <h1 align="center">Hello there!</h1>
-I am a computer science student at RTU MIREA.
+I am a computer science student of RTU MIREA.
+
 
 
  <div id="header" align="center">
